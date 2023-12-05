@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7919B2F-E4A7-44CE-AE85-FC667ABC4703"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E703ABB8-F5F6-44F6-9156-4624DE949E5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/ChatHistory/ViewModel/ChatHistoryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28531726-EE32-455D-9CE1-0DD0B6E1A235"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/ChatHistory/ViewModel/ChatHistoryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59">
+            <Locations>
+               <Location
+                  uuid = "28531726-EE32-455D-9CE1-0DD0B6E1A235 - 29a55c87a3ad8809"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDocumentChange) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SupportModule.ChatHistoryViewModel.gettingChatHistory() -&gt; ()"
+                  moduleName = "prueba support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilohernandez/Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/ChatHistory/ViewModel/ChatHistoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "3141">
+               </Location>
+               <Location
+                  uuid = "28531726-EE32-455D-9CE1-0DD0B6E1A235 - 17ff9589a2e69f50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SupportModule.ChatHistoryViewModel.converToCardModel(message: SupportModule.MessageModel) -&gt; SupportModule.CardModel"
+                  moduleName = "prueba support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilohernandez/Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/ChatHistory/ViewModel/ChatHistoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "338">
+               </Location>
+               <Location
+                  uuid = "28531726-EE32-455D-9CE1-0DD0B6E1A235 - 17ff9589a2e69f8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SupportModule.ChatHistoryViewModel.converToCardModel(message: SupportModule.MessageModel) -&gt; SupportModule.CardModel"
+                  moduleName = "prueba support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilohernandez/Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/ChatHistory/ViewModel/ChatHistoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "28531726-EE32-455D-9CE1-0DD0B6E1A235 - 4e7347fcc2d41878"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SupportModule.ChatHistoryViewModel.converToCardModel(message: SupportModule.MessageModel, userUUID: Swift.String) -&gt; SupportModule.CardModel"
+                  moduleName = "prueba support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilohernandez/Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/ChatHistory/ViewModel/ChatHistoryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05C951F4-E208-47C1-A9DC-EC733160B5DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/StartConversation/View/StartConversationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "showListQueries(geometry:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "05C951F4-E208-47C1-A9DC-EC733160B5DD - 767b3d8f126cc058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SupportModule.QueryTypesModel) -&gt; SwiftUI.NavigationLink&lt;SupportModule.CardView, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SupportModule.QueryTypesModel&gt;, Swift.String, SwiftUI.NavigationLink&lt;SupportModule.CardView, SwiftUI.Text&gt;&gt; in SupportModule.StartConversationView.showListQueries(geometry: SwiftUI.GeometryProxy) -&gt; some"
+                  moduleName = "prueba support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilohernandez/Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/StartConversation/View/StartConversationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "373">
+               </Location>
+               <Location
+                  uuid = "05C951F4-E208-47C1-A9DC-EC733160B5DD - 767b3d8f126cc058"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SupportModule.QueryTypesModel) -&gt; SwiftUI.NavigationLink&lt;SupportModule.CardView, SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SupportModule.QueryTypesModel&gt;, Swift.String, SwiftUI.NavigationLink&lt;SupportModule.CardView, SwiftUI.Text&gt;&gt; in SupportModule.StartConversationView.showListQueries(geometry: SwiftUI.GeometryProxy) -&gt; some"
+                  moduleName = "prueba support"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/danilohernandez/Library/Developer/Xcode/DerivedData/prueba_support-gjcdqfhekwxsxibozhmqovthjpxw/SourcePackages/checkouts/supportModule/Sources/SupportModule/ChatModule/StartConversation/View/StartConversationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

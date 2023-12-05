@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ChatView.init(supportInfo:):ChatView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "supportInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewModel.fetchingMessages():ChatViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toUUID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ChatHistoryViewModel.gettingChatHistory():ChatHistoryViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "name">
+            </PersistentString>
+            <PersistentString
+               value = "supportInformation">
+            </PersistentString>
+            <PersistentString
+               value = "toUUID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewModel.sendMessage(message:):ChatViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "toUUID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatHistoryView.$goToChat.getter:ChatHistoryView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "goToChat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatViewModel.init(supportInfo:):ChatViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.supportInformation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatHistoryView.init():(null)">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #2 in ChatHistoryView.showMessages(_:):ChatHistoryView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$goToChat">
+            </PersistentString>
+            <PersistentString
+               value = "goToChat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #1 in ChatHistoryViewModel.gettingChatHistory():ChatHistoryViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SupportModuleView.navigationLinks():SupportModuleView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.supportInformation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in SupportMainViewModel.getLastChats():SupportMainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message">
+            </PersistentString>
+            <PersistentString
+               value = "supportInformation">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ChatViewModel.fetchingMessages():ChatViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "change.document.data(as: MessageModel.self)">
+            </PersistentString>
+            <PersistentString
+               value = "documentSnapshot.documentChanges">
+            </PersistentString>
+            <PersistentString
+               value = "change.document">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChatHistoryView.goToChat.modify:ChatHistoryView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$goToChat">
+            </PersistentString>
+            <PersistentString
+               value = "goToChat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
